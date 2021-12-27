@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kalp</h1>
+<hr>
+
+- 🎓 I am a Second Year Computer Engineering student, currently studying at D.Y. Patil College of Engineering, Akurdi, PUNE.
+
 - 🌱 I’m currently learning **Android Development**
+
+⭐ I love Competetive Programming
 
 - 📫 How to reach me **kalp07patel@gmail.com**
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Kalp</h1>
+<h1 align="center">Hi, I'm Kalp</h1>
 <hr>
 
 - 🎓 I am a Second Year Computer Engineering student, currently studying at D.Y. Patil College of Engineering, Akurdi, PUNE.
